@@ -83,4 +83,7 @@ I know there is still a lot to improve, but understanding how everything works s
 
 ---
 
-*Built while learning PHP PDO & MySQL.*
+<img width="1658" height="802" alt="Screenshot 2026-11-07 211804" src="https://github.com/user-attachments/assets/1c8eccbf-8dd9-4dc6-92e8-5455c52a07a6" />
+<img width="1676" height="826" alt="Screenshot 2026-11-07 211654" src="https://github.com/user-attachments/assets/88a8d6c6-024d-41fc-9924-91b750667a7e" />
+<img width="1669" height="812" alt="Screenshot 2026-11-07 211755" src="https://github.com/user-attachments/assets/2248403e-6a76-4b77-9ff2-8dbfae7afa03" />
+<img width="1666" height="810" alt="Screenshot 2026-11-07 211735" src="https://github.com/user-attachments/assets/d7c2ab25-ee5d-4ff9-ad34-4fb44e3a0cd4" />
